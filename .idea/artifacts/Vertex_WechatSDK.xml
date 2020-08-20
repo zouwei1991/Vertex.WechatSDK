@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Vertex.WechatSDK">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vertex_WechatSDK</output-path>
+    <root id="archive" name="Vertex.WechatSDK.jar">
+      <element id="module-output" name="Vertex.WechatSDK" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../SoftWare/JavaEnvirment/libs/gson-2.8.6.jar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
